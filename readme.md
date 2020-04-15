@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio GoStack: Conceitos do Node.js
+  Desafio GoStack: Fundamentos Node.js
 </h3>
 <p align="center">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-%2304D361">
@@ -43,4 +43,4 @@ Caso deseja rodar os testes, utilize o seguinte comando:
 
 ---
 
-Feito com ❤ por [Vitor](https://github.com/VtrAlves)
+Made with ❤ by [Vitor](https://github.com/VtrAlves)
